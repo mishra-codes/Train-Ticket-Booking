@@ -1,0 +1,15 @@
+{
+  "name": "railreserve",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "oracledb": "^6.4.0"
+  },
+  "allowScripts": {
+    "oracledb@6.10.0": true
+  }
+}
